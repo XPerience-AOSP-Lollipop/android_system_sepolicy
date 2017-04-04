@@ -403,4 +403,4 @@
 /storage(/.*)?              u:object_r:storage_file:s0
 
 # Themes
-/data/system/theme(/.*)?  u:object_r:theme_data_file:s0
+/data/system/theme(/.*)?    u:object_r:theme_data_file:s0
